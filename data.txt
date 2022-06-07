@@ -1,3 +1,5 @@
 Name: Nic Solitom
 Age: 35
 Favorite color: Red
+
+Edit directly from the Github-platform
